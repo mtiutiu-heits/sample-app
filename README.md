@@ -1,6 +1,1 @@
 # tekton-sample-app
-
-
-
-
-a
